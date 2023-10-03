@@ -1,1 +1,1 @@
-Download docker desktop and install it, while installing uncheck wsl. Create the docker hub account to push the docker image
+Download docker desktop and install it, while installing uncheck wsl. Create the docker hub account to push the docker image. Just by opening the terminal in the project's folder and running the docker command (Docker desktop should be up) we can create the image run and push it
